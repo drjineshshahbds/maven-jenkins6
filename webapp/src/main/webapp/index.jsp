@@ -1,5 +1,2 @@
 Devops TechLab Jenkins Training !! Auto Deployment.
-Check Continuous Delivery
-CHecking Cont... Deployment
-Jenkins PIPELINE Auto Deploy
-testing
+2 projects seperated
